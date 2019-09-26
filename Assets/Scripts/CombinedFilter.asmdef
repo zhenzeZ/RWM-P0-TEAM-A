@@ -1,0 +1,15 @@
+{
+    "name": "CombinedFilter",
+    "references": [
+        "DecrementIfLessThanFirst",
+        "RunningTotalFilter"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
